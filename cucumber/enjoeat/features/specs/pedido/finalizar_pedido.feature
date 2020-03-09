@@ -26,6 +26,6 @@ Funcionalidade: Finalizar pedido
       | complemento | 17° andar               |
 
     Quando eu finalizo o pedido com o "Cartão Refeição"
-    Então devo ver a seguinte mensagem "Seu pedido foi recebido pelo restaurante. Prepare a mesa que a comida está chegando."
+    Então devo ver a seguinte mensagem "Seu pedido foi recebido pelo restaurante. Prepare a mesa que a comida está chegando!"
 
 
