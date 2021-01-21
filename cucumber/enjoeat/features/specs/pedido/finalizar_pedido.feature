@@ -5,7 +5,7 @@ Funcionalidade: Finalizar pedido
   Sendo um usuário que fechou o carrinho com itens
   Posso finalizar o meu pedido
 
-  #BDD (Desenvolvimento guiado por comportamento) => coltado para o negócio
+  #BDD (Desenvolvimento guiado por comportamento) => voltado para o negócio
   #BDT (Teste guiado por comportamento) 
 
   #sai do modelo tradicional, para o modelo que tem valor ao negócio
